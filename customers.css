@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    background-color: black;
+}
+
+nav{
+    background-color: black;
+    color: whitesmoke;
+    margin:0px ;
+}
+
+.navbar-text{
+    float: right;
+    padding-top: 9px;
+    padding-right: 18px;
+
+}
+
+.navbar-text a{
+   text-decoration: none;
+   color: whitesmoke;
+
+}
+
+#dispCustomers{
+    background-color: black;
+    margin-top: -33px;
+    
+}
+
+
+#dText{
+  text-align: center;
+  padding-top: 25px;
+}
+
+#dText h1{
+color: whitesmoke;
+}
+
+
+#dText p{
+    color: dimgray;
+    font-size: 15px;
+    }
+
+    .grid-container {
+        display: flex;
+        grid-template-columns: auto auto auto;
+        background-color: black;
+      
+      }
+      .grid-item {
+        background-color: black;
+        color:white;
+        width: 33%;
+      
+      
+        font-size: 30px;
+        text-align: center;
+      }
+
+      .grid-container img{
+        height: 142px;
+        width: 33%;
+      }
+
+#pConc{
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+    padding-top: 40px;
+}     
+
+#preview{
+    color: RGB(209, 143, 223)
+}
+
+#pConc p{
+    color: dimgray;
+    font-size: 20px;
+}
